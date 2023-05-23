@@ -4,7 +4,7 @@ import { grey } from '@mui/material/colors'
 const paletteDark: PaletteOptions = {
   mode: 'dark',
   background: {
-    default: grey[900],
+    default: '#2b2c34',
     paper: '#222128',
   },
   text: {
