@@ -4,7 +4,7 @@ import React, { FC, ReactNode, useMemo } from 'react'
 import { createTheme, Theme, ThemeProvider, StyledEngineProvider } from '@mui/material/styles'
 import CssBaseline from '@mui/material/CssBaseline'
 
-import { ThemeProvider as EmotionThemeProvider } from '@emotion/react'
+// import { ThemeProvider as EmotionThemeProvider } from '@emotion/react'
 
 // Lodash
 import merge from 'lodash/merge'
